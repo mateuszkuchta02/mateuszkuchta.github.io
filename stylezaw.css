@@ -1,0 +1,37 @@
+body {
+	background : url(tlo.jpg) no-repeat;
+	width: 100%;
+	height: 100%;
+	clear : both;
+	margin : 0;
+	padding : 0;
+}
+#baner {
+	width: 1400px;
+	height: 200px;
+	margin: auto;
+}
+#menu {
+	background-color: #ff1a1a;
+	color: white;
+	width: 1200px;
+	height: 75px;
+	margin: auto;
+	font-size:200%;
+}
+#dalej {
+	background-color: #ff3333;
+	width:1200px;
+	height: 600px;
+	margin: auto;
+	font-size:200%;
+	color:white;
+}
+#stopka {
+	background-color: #ff1a1a;
+	width: 1200px;
+	height: 30hv;
+	color: white;
+	text-align: right;
+	margin: auto;
+}
